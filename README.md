@@ -1,1 +1,3 @@
-# node-api
+# Node Back
+
+This backend, developed with Node.js, MySQL, and Multer, manages a dynamic online portfolio via a RESTful API. Express is used to create routes for the API and handle HTTP requests, thus facilitating project addition (POST), retrieval (GET), and management through the MySQL database, including secure image storage via Multer. The MySQL database structures the project information, while IP filtering and CORS management ensure the security and smooth communication between the frontend and backend. Thanks to Express, the server is optimized for handling static files and request processing. This project demonstrates my ability to develop secure and high-performance backend solutions.
